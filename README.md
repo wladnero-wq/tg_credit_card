@@ -15,11 +15,11 @@
 
 Стартовое меню:
 
-![image]()
+![image](https://github.com/wladnero-wq/tg_credit_card/blob/main/Screenshot_1.png)
 
 После выбора карты Visa:
 
-![image]()
+![image](https://github.com/wladnero-wq/tg_credit_card/blob/main/Screenshot_2.png)
 
 
 ## 💻 Технологии
